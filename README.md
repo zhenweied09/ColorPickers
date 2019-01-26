@@ -8,7 +8,7 @@ This demo extends simonscoffins's project and add a new wheel picker.
 
 |Android|iOS|
 |---|---|
-|![Android Normal Picker](/screenshot/android_circle_picker.png)|![iOS Normal Picker](/screenshot/iOS_circle_picker.png)|
-|![Android Wheel Picker](/screenshot/android_wheel_picker.png)|![iOS Wheel Picker](/screenshot/iOS_wheel_picker.png)|
+|<img src="https://github.com/zhenweied09/ColorPickers/raw/master/screenshots/android_circle_picker.png" width="45%" />|<img src="https://github.com/zhenweied09/ColorPickers/raw/master/screenshots/ios_circle_picker.png" width="45%" />|
+|<img src="https://github.com/zhenweied09/ColorPickers/raw/master/screenshots/android_wheel_picker.png" width="45%" />|<img src="https://github.com/zhenweied09/ColorPickers/raw/master/screenshots/ios_wheel_picker.png" width="45%" />|
 
 
